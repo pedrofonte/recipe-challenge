@@ -1,0 +1,88 @@
+html{
+    background-color: hsl(330, 100%, 98%);
+    min-width: 375px;
+    max-width: 1440px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+p{
+    font-size: 16px;
+    margin-left: 30px;
+}
+
+.titulos{
+    font-family: Young Serif;
+    font-weight: 400;
+    color: hsl(332, 51%, 32%);
+    margin-left: 30px;
+    
+}
+
+.preparo{
+    font-family: Outfit;
+    font-weight: 600;
+    color: hsl(14, 45%, 36%);
+    margin-left: 50px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+.lista-preparo{
+    margin-left: 25px;
+}
+.lista-ingredientes{
+    margin-left: 25px;
+}
+
+
+.corpo{
+    background-color: white;
+    font-family: Outfit;
+    font-weight: 400;
+    margin: auto; 
+    border-radius: 35px;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    margin-top: 150px;
+    min-height: 100vh;
+    min-width: 50vw;   
+}
+
+.imagem-principal{
+    width: 90%;
+    margin: 40px;
+
+}
+.elem-tabela{
+    color: hsl(332, 51%, 32%);
+    font-weight: 800;
+    
+}
+table{
+    padding-left: 30px;
+}
+
+tr{
+    height: 40px;
+
+}
+td{
+    width: 330px;
+    border-bottom: 1px solid rgb(231, 231, 231);
+}
+
+th{
+    text-align: left;
+    border-bottom: 1px solid rgb(231,231,231);
+    font-weight: 300;
+}
